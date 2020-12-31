@@ -1,0 +1,75 @@
+/* ==== BASE STYLES ==== */
+
+* {
+	box-sizing: border-box;
+}
+body {
+  background-color: #e6e6e6;
+}
+img {
+  position: relative;
+  width: 47.5841%;
+  left: 25%;
+}
+section {
+  background-color: #ccccff;
+  width: 47.5841%;
+  height: 61.1979%;
+  position: relative;
+  left: 25%;
+}
+section h4, h3 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color:#000066 ;
+}
+section p {
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  color: #000066;
+}
+#logo {
+  position: relative;
+  width: 15%;
+  height: auto;
+  left: 43%;
+  margin: 0rem;
+}
+
+.links ul {
+  list-style-type: none;
+  margin: 0 auto 0 auto;
+  text-align: center;
+  padding: 1rem;
+}
+.links li {
+  display: inline;
+}
+.links a {
+  color: #1e2f2f;
+  font-size: 1.5rem;
+}
+.links a:hover {
+  color: #00004d;
+}
+
+footer {
+  background-color: rgb(0, 51, 77);
+  padding: 1px;
+  height: auto;
+  width: 47.5841%;
+  position: relative;
+  left: 25%;   
+}
+footer p {
+  color: white;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+footer a {
+  color: #0077b3;
+  font-size: 1rem;
+}
+footer a:hover {
+  color: #669999;
+}
